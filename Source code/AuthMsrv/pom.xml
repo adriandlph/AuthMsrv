@@ -8,9 +8,7 @@
   <version>1.0</version>
   <name>AuthMsrv</name>
   <description>AuthMsrv</description>  
-
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.adriandlph.com</url>
+  <url>https://github.com/adriandlph/AuthMsrv</url>
   <packaging>jar</packaging>
 
     <properties>
